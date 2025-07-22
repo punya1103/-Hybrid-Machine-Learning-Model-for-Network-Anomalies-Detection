@@ -127,7 +127,7 @@ text
 
 > Developed as part of a mini-project for **Visvesvaraya Technological University (VTU)**.
 
--**Punya M Shetty** 
+- **Punya M Shetty** 
 - **Chandana S**  
 - **Manushree M**   
 - **Guide**: Prof. Shwetha N
